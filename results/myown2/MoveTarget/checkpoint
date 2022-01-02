@@ -1,0 +1,3 @@
+model_checkpoint_path: "MoveTarget-500006.ckpt"
+all_model_checkpoint_paths: "MoveTarget-499983.ckpt"
+all_model_checkpoint_paths: "MoveTarget-500006.ckpt"

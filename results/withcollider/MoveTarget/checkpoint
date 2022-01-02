@@ -1,0 +1,2 @@
+model_checkpoint_path: "MoveTarget-38970.ckpt"
+all_model_checkpoint_paths: "MoveTarget-38970.ckpt"
